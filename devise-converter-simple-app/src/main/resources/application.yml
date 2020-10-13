@@ -1,0 +1,4 @@
+devise-converter:
+  values:
+    dollarValue : 5
+    euroValue: 20
